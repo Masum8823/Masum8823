@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD. Abdulla Al Masum</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+CSE+Student;Future+Software+Engineer;Leader+%7C+Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+CSE+Student;Future+Lecturer;Leader+%7C+Problem+Solver;Always+Learning+New+Things" />
 </p>
 
 ---
