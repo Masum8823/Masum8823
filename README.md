@@ -16,10 +16,10 @@
 
 ## 🚀 About Me
 
-✨ Dedicated and ambitious Computer Science student
-💡 Love building real-world impactful projects
-📈 Maintaining strong academic consistency
-🎯 Dream: Become a high-level Software Engineer
+✨ Dedicated and ambitious Computer Science student <br>
+💡 Love building real-world impactful projects <br>
+📈 Maintaining strong academic consistency <br>
+🎯 Dream: Become a high-level Software Engineer <br>
 
 ---
 
