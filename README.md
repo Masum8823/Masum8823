@@ -8,7 +8,7 @@
 
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
-<p align="center">
+<p align="Left">
   🎓 3rd Year CSE Student <br>
   🏫 Northern University Bangladesh <br>
   📊 CGPA: <b>3.902</b>
@@ -45,7 +45,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="Left">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,php,mysql,git,github" />
 </p>
 
@@ -65,12 +65,6 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masum8823&theme=tokyonight" width="100%" alt="Profile Summary" />
-
-</div>
-
 <br>
 
 <div align="center">
@@ -87,14 +81,10 @@
   </a>
 </p>
 
-<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Masum8823&label=Profile+Views&color=blue&style=flat" />
 </p>
 
-<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 <p align="center">
   ⭐ <b>Consistency • Leadership • Growth</b> ⭐
 </p>
-<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
