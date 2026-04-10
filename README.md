@@ -66,6 +66,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masum8823&theme=radical" />
 </p>
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Masum8823&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---
 
