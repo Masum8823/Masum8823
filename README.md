@@ -8,58 +8,79 @@
 
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
-<p align="Left">
-  🎓 3rd Year CSE Student <br>
-  🏫 Northern University Bangladesh <br>
-  📊 CGPA: <b>3.902</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%203rd%20Year%20CSE%20Student-00BFFF?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/🏫%20Northern%20University%20Bangladesh-00FA9A?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/📊%20CGPA%203.902-FFD700?style=for-the-badge" />
 </p>
 
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
-## 🚀 About Me
+<p align="left">
+  <img src="https://img.shields.io/badge/🚀%20About%20Me-FF7F50?style=for-the-badge" />
+</p>
 
-✨ Dedicated and ambitious Computer Science student <br>
-💡 Love building real-world impactful projects <br>
-📈 Maintaining strong academic consistency <br>
-🎯 Dream: Become a high-level Software Engineer <br>
-
-<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
-
-## 🏆 Leadership & Achievements
-
-👨‍🏫 **Class Representative (CR)**
-
-🥇 **Project Leader - Software Development I**
-
-* 💻 Built <b>Quick Cash</b> (C++ Based System)
-* 🥇 Ranked <b>1st in section</b>
-
-🥇 **Project Leader - Software Development II**
-
-* 🌐 Developed <b>University Management System</b> (PHP + HTML)
-* 🥇 Ranked <b>1st in section</b>
-
-🔥 Strong leadership + consistent performance
+<p align="left">
+  ✨ Dedicated and ambitious Computer Science student <br>
+  💡 Love building real-world impactful projects <br>
+  📈 Maintaining strong academic consistency <br>
+  🎯 Dream: Become a high-level Software Engineer
+</p>
 
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
-## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/🏆%20Leadership%20%26%20Achievements-FF4500?style=for-the-badge" />
+</p>
 
-<p align="Left">
+<p align="left">
+  👨‍🏫 Class Representative (CR)
+</p>
+
+<p align="left">
+  🥇 <b>Project Leader - Software Development I</b><br>
+  💻 Built <b>Quick Cash</b> (C++ Based System)<br>
+  🥇 Ranked <b>1st in section</b>
+</p>
+
+<p align="left">
+  🥇 <b>Project Leader - Software Development II</b><br>
+  🌐 Developed <b>University Management System</b> (PHP + HTML)<br>
+  🥇 Ranked <b>1st in section</b>
+</p>
+
+<p align="left">
+  🔥 Strong leadership + consistent performance
+</p>
+
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
+
+<h2>🛠️ Tech Stack</h2>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,php,mysql,git,github" />
 </p>
 
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
-## 📂 Featured Projects
+<h2>📂 Featured Projects</h2>
 
-🚀 **Quick Cash (C++)**
+<p align="left">
+  🚀 <b>Quick Cash (C++)</b><br>
+  Digital transaction simulation system
+</p>
 
-* Digital transaction simulation system
+<p align="left">
+  🌐 <b>University Management System</b><br>
+  Full web-based management system using PHP & MySQL
+</p>
 
-🌐 **University Management System**
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
-* Full web-based management system using PHP & MySQL
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Future+Software+Engineer;CSE+Student;Hardworking+%26+Ambitious" />
+</p>
 
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
