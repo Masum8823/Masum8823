@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm MD. Abdulla Al Masum</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+CSE+Student;Future+Lecturer;Leader+%7C+Problem+Solver;Always+Learning+New+Things" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:6A3DE8,100:8E54E9&height=240&section=header&text=MD.%20%20Abdulla%20Al%20Masum&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Learner%20%7C%20Consistent%20CSE%20Student%20%7C%20Future%20Lecturer&descAlignY=58&descSize=19&descColor=c9d1d9" width="100%" />
 
----
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8E54E9&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Masum+👋;Web+Learner+%7C+CSE+Student;Future+Lecturer+;Always+Learning%2C+New+Things+🚀)](https://git.io/typing-svg)
+
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 <p align="center">
   🎓 3rd Year CSE Student <br>
@@ -12,7 +14,7 @@
   📊 CGPA: <b>3.902</b>
 </p>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 🚀 About Me
 
@@ -21,7 +23,7 @@
 📈 Maintaining strong academic consistency <br>
 🎯 Dream: Become a high-level Software Engineer <br>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 🏆 Leadership & Achievements
 
@@ -39,7 +41,7 @@
 
 🔥 Strong leadership + consistent performance
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -47,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,html,css,php,mysql,git,github" />
 </p>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 📂 Featured Projects
 
@@ -59,21 +61,23 @@
 
 * Full web-based management system using PHP & MySQL
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masum8823&theme=radical" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masum8823&theme=tokyonight" width="100%" alt="Profile Summary" />
+
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=Masum8823&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 🌐 Connect With Me
 
@@ -83,14 +87,14 @@
   </a>
 </p>
 
----
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Masum8823&label=Profile+Views&color=blue&style=flat" />
 </p>
 
----
-
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 <p align="center">
   ⭐ <b>Consistency • Leadership • Growth</b> ⭐
 </p>
+<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
