@@ -58,7 +58,7 @@
 <h2>🛠️ Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,php,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,php,mysql,git,github" />
 </p>
 
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
