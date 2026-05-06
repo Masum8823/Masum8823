@@ -6,18 +6,29 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8E54E9&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Masum+👋;Always+Learning%2C+New+Things+🚀)](https://git.io/typing-svg)
 
-<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
-
-<p align="left"> <b><h1>💫 About Me</h1></b> </p>
+---
+### 💫 About Me
 <p align="left">
   👋 Hello! I'm <b>Masum</b>, a dedicated Computer Science student at <b>Northern University Bangladesh</b>. I thrive on solving complex problems and building scalable software. With a background of consistent academic excellence and leadership, I aim to create technology that makes an impact.
 </p>
 
-<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
+---
 
+### 🎓 Academic Hall of Fame
+<div align="center">
+
+| Level | Institution | Result | Status |
+| :--- | :--- | :--- | :--- |
+| **B.Sc in CSE** | Northern University Bangladesh | **3.902 / 4.00** | 3rd Year |
+| **HSC (Science)** | Jashore Cantonment College| **5.00 / 5.00** | Distinction 🏆 |
+| **SSC (Science)** | Jashore Govt. ShikkhaBoard Model School and College | **5.00 / 5.00** | Distinction 🏆 |
+---
 <p align="left">
   <img src="https://img.shields.io/badge/🏆%20Leadership%20%26%20Achievements-FF4500?style=for-the-badge" />
 </p>
+
+
+</div>
 
 <p align="left">
   👨‍🏫 Class Representative (CR)
@@ -39,15 +50,22 @@
   🔥 Strong leadership + consistent performance
 </p>
 
-<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
+---
 
-<h2>🛠️ Tech Stack</h2>
+### 🛠️ Technical Arsenal 
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,php,mysql,git,github" />
-</p>
+<div align="center">
 
-<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Programming** | <img src="https://skillicons.dev/icons?i=c,cpp,java,php" /> |
+| **Web & Database** | <img src="https://skillicons.dev/icons?i=html,css,mysql" /> |
+| **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu" /> |
+| **Specialized** | <img src="https://img.shields.io/badge/Architecture-Emu8086-red?style=for-the-badge&logo=cpu-z" /> <img src="https://skillicons.dev/icons?i=canva" /> |
+
+</div>
+
+---
 
 <h2>📂 Featured Projects</h2>
 
@@ -88,3 +106,6 @@
 <p align="center">
   ⭐ <b>Consistency • Leadership • Growth</b> ⭐
 </p>
+
+---
+
