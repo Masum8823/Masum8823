@@ -8,23 +8,9 @@
 
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓%203rd%20Year%20CSE%20Student-00BFFF?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/🏫%20Northern%20University%20Bangladesh-00FA9A?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/📊%20CGPA%203.902-FFD700?style=for-the-badge" />
-</p>
-
-<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
-
+<p align="left"> <b><h1>💫 About Me</h1></b> </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/🚀%20About%20Me-FF7F50?style=for-the-badge" />
-</p>
-
-<p align="left">
-  ✨ Dedicated and ambitious Computer Science student <br>
-  💡 Love building real-world impactful projects <br>
-  📈 Maintaining strong academic consistency <br>
-  🎯 Dream: Become a high-level Software Engineer
+  👋 Hello! I'm <b>Masum</b>, a dedicated Computer Science student at <b>Northern University Bangladesh</b>. I thrive on solving complex problems and building scalable software. With a background of consistent academic excellence and leadership, I aim to create technology that makes an impact.
 </p>
 
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
