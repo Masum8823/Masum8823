@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:6A3DE8,100:8E54E9&height=240&section=header&text=MD.%20%20Abdulla%20Al%20Masum&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Learner%20%7C%20Consistent%20CSE%20Student%20%7C%20Future%20Lecturer&descAlignY=58&descSize=19&descColor=c9d1d9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:6A3DE8,100:8E54E9&height=240&section=header&text=MD.%20%20Abdulla%20Al%20Masum&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Learner%20%7C%20Consistent%20CSE%20Student%20%&descAlignY=58&descSize=19&descColor=c9d1d9" width="100%" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8E54E9&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Masum+👋;Web+Learner+%7C+CSE+Student;Future+Lecturer+;Always+Learning%2C+New+Things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8E54E9&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Masum+👋;Always+Learning%2C+New+Things+🚀)](https://git.io/typing-svg)
 
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
