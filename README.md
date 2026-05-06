@@ -22,35 +22,9 @@
 | **B.Sc in CSE** | Northern University Bangladesh | **3.902 / 4.00** | 3rd Year |
 | **HSC (Science)** | Jashore Cantonment College| **5.00 / 5.00** | Distinction 🏆 |
 | **SSC (Science)** | Jashore Govt. ShikkhaBoard Model School and College | **5.00 / 5.00** | Distinction 🏆 |
----
-<p align="left">
-  <img src="https://img.shields.io/badge/🏆%20Leadership%20%26%20Achievements-FF4500?style=for-the-badge" />
-</p>
-
-
-</div>
-
-<p align="left">
-  👨‍🏫 Class Representative (CR)
-</p>
-
-<p align="left">
-  🥇 <b>Project Leader - Software Development I</b><br>
-  💻 Built <b>Quick Cash</b> (C++ Based System)<br>
-  🥇 Ranked <b>1st in section</b>
-</p>
-
-<p align="left">
-  🥇 <b>Project Leader - Software Development II</b><br>
-  🌐 Developed <b>University Management System</b> (PHP + HTML)<br>
-  🥇 Ranked <b>1st in section</b>
-</p>
-
-<p align="left">
-  🔥 Strong leadership + consistent performance
-</p>
 
 ---
+
 
 ### 🛠️ Technical Arsenal 
 
@@ -67,18 +41,20 @@
 
 ---
 
-<h2>📂 Featured Projects</h2>
+### 🏆 Leadership & Project Excellence
 
-<p align="left">
-  🚀 <b>Quick Cash (C++)</b><br>
-  Digital transaction simulation system
-</p>
+<div align="Left">
 
-<p align="left">
-  🌐 <b>University Management System</b><br>
-  Full web-based management system using PHP & MySQL
-</p>
+| Status | Role / Project | Key Achievements & Tech |
+| :---: | :--- | :--- |
+| 👑 | **Class Representative (CR)** | Leading academic coordination & class management. |
+| 🥇 | **QuickCash** | **Ranked 1st in Class** • Digital finance logic • (C++). |
+| 🥇 | **university-management-system** | **Ranked 1st in Class** • Full-stack development • PHP & MySQL. |
+</div>
 
+<br />
+
+---
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
 ## 📊 GitHub Analytics
