@@ -55,8 +55,6 @@
 <br />
 
 ---
-<img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
-
 ## 📊 GitHub Analytics
 
 <br>
