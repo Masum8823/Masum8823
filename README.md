@@ -9,7 +9,7 @@
 ---
 ### 💫 About Me
 <p align="left">
-  👋 Hello! I'm <b>Masum</b>, a dedicated Computer Science student at <b>Northern University Bangladesh</b>. I thrive on solving complex problems and building scalable software. With a background of consistent academic excellence and leadership, I aim to create technology that makes an impact.
+  👋 Hello! I'm <b>Masum</b>, a dedicated Computer Science student at <b>Northern University Bangladesh</b>. With a background of consistent academic excellence and leadership, I aim to create technology that makes an impact.
 </p>
 
 ---
