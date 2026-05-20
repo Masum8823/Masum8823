@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  ⭐ <b>Consistency • Leadership • Growth</b> ⭐
+  <b>Consistency • Leadership • Growth</b>
 </p>
 
 ---
