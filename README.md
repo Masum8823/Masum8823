@@ -65,13 +65,7 @@
 
 <img src="https://github.com/SazeebulBashar/SazeebulBashar/raw/main/assets/rainbow.webp" width="100%" />
 
-## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:masum688823@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Masum8823&label=Profile+Views&color=blue&style=flat" />
