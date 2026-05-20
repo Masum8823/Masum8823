@@ -71,7 +71,7 @@
   <img src="https://komarev.com/ghpvc/?username=Masum8823&label=Profile+Views&color=blue&style=flat" />
 </p>
 
-<p align="center">
+<p>
   <b>Consistency • Leadership • Growth</b>
 </p>
 
