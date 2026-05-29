@@ -7,6 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8E54E9&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Masum+👋;Always+Learning%2C+New+Things+🚀)](https://git.io/typing-svg)
 
 ---
+### 💫 About Me
+<p align="left">
+  👋 Hello! I'm <b>Masum</b>, a dedicated Computer Science student at <b>Northern University Bangladesh</b>. With a background of consistent academic excellence and leadership, I aim to create technology that makes an impact.
+</p>
 
 ---
 
