@@ -59,7 +59,9 @@
 
 <br>
 
-
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Masum8823&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</div>
 
 
 
