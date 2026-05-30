@@ -9,7 +9,7 @@
 ---
 ### 💫 About Me
 <p align="left">
-  👋 Hello! I'm <b>Masum</b>, a dedicated Computer Science student at <b>Northern University Bangladesh</b>.
+  👋 Hello! I'm <b>Masum</b>, a dedicated Computer Science student.
 </p>
 
 ---
