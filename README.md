@@ -9,7 +9,7 @@
 ---
 ### 💫 About Me
 <p align="left">
-  👋 Hi! I'm <b>Masum</b>, a dedicated Computer Science student.
+  👋 Hi! I'm <b>Masum</b>, a Computer Science student.
 </p>
 
 ---
