@@ -45,11 +45,11 @@
 
 <div align="Left">
 
-| Status | Role / Project | Key Achievements & Tech |
+| Course | Role / Project | Key Achievements & Tech |
 | :---: | :--- | :--- |
-| 👑 | **Class Representative (CR)** | Leading academic coordination & class management. |
-| 🥇 | **QuickCash** | **Ranked 1st in Class** • Digital finance logic • (C++). |
-| 🥇 | **university-management-system** | **Ranked 1st in Class** • Full-stack development • PHP & MySQL. |
+| **CR** | **Class Representative** | Leading academic coordination, communication, and class management. |
+| **SD-I** | **Project Leader – QuickCash** | Best Project (**Ranked #1 in Class**) • Recognized & Awarded by the course instructor • Developed in **C++**. |
+| **SD-II** | **Project Leader – University Management System** | Best Project (**Ranked #1 in Class**) • Recognized & Awarded by the course instructor • Built with **PHP, MySQL, HTML & CSS**. |
 </div>
 
 <br />
