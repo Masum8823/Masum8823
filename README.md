@@ -50,6 +50,7 @@
 | **CR** | **Class Representative** | Leading academic coordination, communication, and class management. |
 | **SD-I** | **Project Leader – QuickCash** | Best Project (**Ranked #1 in Class**) • Recognized & Awarded by the course instructor • Developed in **C++**. |
 | **SD-II** | **Project Leader – University Management System** | Best Project (**Ranked #1 in Class**) • Recognized & Awarded by the course instructor • Built with **PHP, MySQL, HTML & CSS**. |
+| **SD-III** | **Project Leader – Campus_Connect** | Best Project (**Ranked #1 in Class**) • Recognized & Awarded by the course instructor • Built with **PHP, MySQL, HTML & CSS**. |
 </div>
 
 <br />
