@@ -8,11 +8,19 @@
 
 ---
 ### 💫 About Me
-<p align="left">
-  👋 Hi! I'm <b>Masum</b>, a Computer Science student.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE%20Student-NUB-6A3DE8?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-3.923%20%2F%204.00-8E54E9?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Class-Representative-4776E6?style=for-the-badge&logo=teamspeak&logoColor=white" />
 </p>
 
----
+<p align="center">
+  👋 Hi, I'm <b>MD. Abdulla Al Masum</b> — a Computer Science student at <b>Northern University Bangladesh</b>.<br>
+  I love turning ideas into working projects, leading teams, and learning something new every single day.
+</p>
+
+<br>
 
 ### 🎓 Academic Hall of Fame
 <div align="center">
