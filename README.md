@@ -23,13 +23,20 @@
 <br>
 
 ### 🎓 Academic Hall of Fame
+
 <div align="center">
 
 | Level | Institution | Result | Status |
 | :--- | :--- | :--- | :--- |
-| **B.Sc in CSE** | Northern University Bangladesh | **3.923 / 4.00** | 10th Semester |
-| **HSC (Science)** | Jashore Cantonment College| **5.00 / 5.00** | Distinction 🏆 |
+| **B.Sc in CSE** | Northern University Bangladesh | **3.923 / 4.00** | 10th Semester 🎓 |
+| **HSC (Science)** | Jashore Cantonment College | **5.00 / 5.00** | Distinction 🏆 |
 | **SSC (Science)** | Jashore Govt. ShikkhaBoard Model School and College | **5.00 / 5.00** | Distinction 🏆 |
+
+<br>
+
+<img src="https://img.shields.io/badge/University%20Scholarship-Awarded%20Multiple%20Times-F5A623?style=for-the-badge&logo=awesomelists&logoColor=white" />
+
+</div>
 
 ---
 
