@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  👋 Hi, I'm <b>MD. Abdulla Al Masum</b> — a Computer Science student at <b>Northern University Bangladesh</b>.<br>
+  👋 Hi, I'm <b>MD. Abdulla Al Masum</b> — a Computer Science student<br>
 </p>
 
 <br>
