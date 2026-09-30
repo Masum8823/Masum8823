@@ -17,7 +17,6 @@
 
 <p align="center">
   👋 Hi, I'm <b>MD. Abdulla Al Masum</b> — a Computer Science student at <b>Northern University Bangladesh</b>.<br>
-  I love turning ideas into working projects, leading teams, and learning something new every single day.
 </p>
 
 <br>
