@@ -28,8 +28,8 @@
 | Level | Institution | Result | Status |
 | :--- | :--- | :--- | :--- |
 | **B.Sc in CSE** | Northern University Bangladesh | **3.923 / 4.00** | 10th Semester 🎓 |
-| **HSC (Science)** | Jashore Cantonment College | **5.00 / 5.00** | Distinction 🏆 |
-| **SSC (Science)** | Jashore Govt. ShikkhaBoard Model School and College | **5.00 / 5.00** | Distinction 🏆 |
+| **HSC (Science)** | Jashore Cantonment College | **5.00 / 5.00** | Distinction  |
+| **SSC (Science)** | Jashore Govt. ShikkhaBoard Model School and College | **5.00 / 5.00** | Distinction  |
 
 <br>
 
