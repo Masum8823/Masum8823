@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  👋 Hi, I'm <b>MD. Abdulla Al Masum</b> — a Computer Science student<br>
+  👋 I'm <b>MD. Abdulla Al Masum</b> — a Computer Science student<br>
 </p>
 
 <br>
